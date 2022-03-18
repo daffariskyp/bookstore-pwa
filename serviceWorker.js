@@ -12,7 +12,10 @@ const assets = [
   "/images/book6.jpg",
   "/images/book7.jpg",
   "/images/book8.jpg",
-  "/images/book9.jpg"
+  "/images/book9.jpg",
+  "/images/book10.jpg",
+  "/images/book11.jpg",
+  "/images/book12.jpg"
 ];
 
 self.addEventListener("install", installEvent => {
